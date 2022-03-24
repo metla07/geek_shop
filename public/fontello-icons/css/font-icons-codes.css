@@ -1,0 +1,26 @@
+
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-thumbs-up:before { content: '\e801'; } /* '' */
+.icon-heart-empty:before { content: '\e802'; } /* '' */
+.icon-basket:before { content: '\e803'; } /* '' */
+.icon-globe:before { content: '\e804'; } /* '' */
+.icon-plancast:before { content: '\e805'; } /* '' */
+.icon-spin5:before { content: '\e838'; } /* '' */
+.icon-tree-1:before { content: '\e83e'; } /* '' */
+.icon-tree-2:before { content: '\e83f'; } /* '' */
+.icon-firefox:before { content: '\e840'; } /* '' */
+.icon-chrome:before { content: '\e841'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-github-circled:before { content: '\f09b'; } /* '' */
+.icon-github:before { content: '\f113'; } /* '' */
+.icon-apple:before { content: '\f179'; } /* '' */
+.icon-android:before { content: '\f17b'; } /* '' */
+.icon-linux:before { content: '\f17c'; } /* '' */
+.icon-vkontakte:before { content: '\f189'; } /* '' */
+.icon-google:before { content: '\f1a0'; } /* '' */
+.icon-paper-plane:before { content: '\f1d8'; } /* '' */
+.icon-odnoklassniki:before { content: '\f263'; } /* '' */
+.icon-chrome-1:before { content: '\f268'; } /* '' */
+.icon-opera:before { content: '\f26a'; } /* '' */
+.icon-gitlab:before { content: '\f296'; } /* '' */
